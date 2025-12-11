@@ -1,3 +1,3 @@
 # AdCaptivateMiniCourse
-Mini-Course created on Adobe Captivate to showcase my instructional design skills
+Mini-Course created on Adobe Captivate to showcase my instructional design skills.
 Using AI in the Workplace is a practical, interactive training course designed to help employees safely and effectively leverage approved AI tools. Learners will explore how to use AI to improve productivity, maintain data privacy, evaluate content accuracy, and apply ethical practices. Through real-world examples, hands-on scenarios, and interactive exercises, this course equips professionals with the knowledge and skills to confidently integrate AI into their daily workflows while staying compliant with company policies.
